@@ -1,0 +1,54 @@
+.img-size{
+    margin-left:30px;
+    width: 118px;
+    height: 48px;
+}
+.btn-block {
+    background-color: #ea5871;
+}
+.btn-block:hover{
+    background-color: #da3f59;
+
+}
+.register {
+    width: 80%;
+    margin: auto;
+}
+.block {
+    width: 55vh;
+    background-color: white;
+    height: 57vh;
+    padding-top: 100px;
+    padding-left: -16px;
+    margin: auto;
+    border-radius: 40px;
+    margin-top: 48px;
+}
+.rblock {
+    width: 73vh;
+    background-color: white;
+    height: 78vh;
+    padding-top: 60px;
+    padding-left: -16px;
+    margin: auto;
+    border-radius: 40px;
+    padding: 50px;
+}
+.bg {
+    background-image: url(https://a0.muscache.com/im/pictures/miso/Hosting-52159627/original/d727cf6e-4787-4b38-a86f-0cd8d91d02b2.png?im_w=1200);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+.s1{
+    height: 666px;
+}
+.layer1 {
+    background-color: #00000045;
+    height: 667px;
+}
+.layer2 {
+    background-color: #00000045;
+    height: 799px;
+    padding: 77px;
+}
